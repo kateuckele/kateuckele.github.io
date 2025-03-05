@@ -1,9 +1,9 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Genetic mapping of floral traits"
+excerpt: "Identifying the genomic loci underlying pollination shifts"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/R3159-MOOD-04[37]_bracteatus_inside_floral_tube.jpg
+  teaser: /assets/images/R3159-MOOD-04[37]_bracteatus_inside_floral_tube.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
