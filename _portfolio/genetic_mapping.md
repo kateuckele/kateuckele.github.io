@@ -2,8 +2,8 @@
 title: "Genetic mapping of floral traits"
 excerpt: "Identifying the genomic loci underlying pollination shifts"
 header:
-  image: /assets/images/R3159-MOOD-04[37]_bracteatus_inside_floral_tube.jpg
-  teaser: /assets/images/R3159-MOOD-04[37]_bracteatus_inside_floral_tube_teaser.jpg
+  image: /assets/images/genetic_mapping_hero.jpg
+  teaser: /assets/images/genetic_mapping_teaser.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
