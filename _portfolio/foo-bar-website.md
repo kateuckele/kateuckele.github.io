@@ -3,14 +3,14 @@ title: "Genetic mapping of floral traits"
 excerpt: "Identifying the genomic loci underlying pollination shifts"
 header:
   image: /assets/images/R3159-MOOD-04[37]_bracteatus_inside_floral_tube.jpg
-  teaser: /assets/images/R3159-MOOD-04[37]_bracteatus_inside_floral_tube_teaser_.jpg
+  teaser: /assets/images/R3159-MOOD-04[37]_bracteatus_inside_floral_tube_teaser.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Postdoctoral researcher"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Genomic and QTL mapping analyses"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
