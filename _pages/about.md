@@ -1,8 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I'm Kate—a genomic data scientist, evolutionary biologist, and dog mom. I earned my Bachelor's in Ecology and Evolutionary Biology from the University of Michigan and later completed my PhD in the same field at the University of Nevada, Reno.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+What started as an internship at an evolutionary genetics lab in Panama City quickly blossomed into a career fueled by a desire to understand how evolution shapes the natural world. That formative experience inspired me to pursue a PhD in evolutionary biology, where I discovered a genuine passion for computing, data analysis, and bioinformatics. Over the past three years as a postdoctoral researcher, I've been using genomic datasets to reconstruct evolutionary histories and uncover the genetic basis of complex traits. This work has led to several peer-reviewed publications with many cherished collaborators. 
+
+Outside of work, I love trail running with my border collie, Luke. I organize the Missoula Data Meetup, where local scientists, analysts, and developers come together to share ideas and spark new collaborations. And in my quieter moments, I enjoy exploring the art of sewing my own clothes.
+
