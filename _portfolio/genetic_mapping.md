@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/genetic_mapping_teaser.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/icon.jpg
     image_alt: "logo"
     text: "Postdoctoral researcher"
   - title: "Responsibilities"
