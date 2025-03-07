@@ -1,6 +1,17 @@
 ---
 permalink: /about/
 title: "About me"
+
+gallery:
+  - url: /assets/images/juniper_pop_gen_teaser.jpg
+    image_path: assets/images/juniper_pop_gen_teaser.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/juniper_pop_gen_teaser.jpg
+    image_path: assets/images/juniper_pop_gen_teaser.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/juniper_pop_gen_teaser.jpg
+    image_path: assets/images/juniper_pop_gen_teaser.jpg
+    alt: "placeholder image 3"
 ---
 
 Hi, I'm Kate—a genomic data scientist, evolutionary biologist, and dog mom. I earned my Bachelor's in Ecology and Evolutionary Biology from the University of Michigan and later completed my PhD in the same field at the University of Nevada, Reno.

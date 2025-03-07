@@ -2,7 +2,7 @@
 title: "Population genomics of a juniper hybrid zone"
 excerpt: "Understanding the ecological drivers and phenotypic consequences of hybridization"
 header:
-  image: /assets/images/juniper_pop_gen_hero.jpg
+  image: /assets/images/sierra_juniper_hero.jpg
   teaser: /assets/images/juniper_pop_gen_teaser.jpg
 sidebar:
   - title: "Role"
