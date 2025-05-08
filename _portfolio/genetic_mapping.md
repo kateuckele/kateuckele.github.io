@@ -26,6 +26,7 @@ Over evolutionary time, many flowering plants have shifted their primary pollina
 
 Although many studies have examined the genetic basis of these shifts in temperate regions, tropical systems—home to far greater plant diversity—remain largely unexplored. This project focuses on the tropical genus *Costus*, an emerging evolutionary model for studying pollination transitions. I am using genetic mapping with recombinant F2 hybrids to pinpoint the specific genomic regions that drive changes in floral color, nectar production, and shape during the switch from bee to hummingbird pollination.
 
+<iframe src="/assets/html/iplotMap.html" width="100%" height="600px" frameborder="0" style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
 
 

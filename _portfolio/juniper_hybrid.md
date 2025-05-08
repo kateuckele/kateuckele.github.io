@@ -1,5 +1,5 @@
 ---
-title: "Population genomics of a juniper hybrid zone"
+title: "Population genomics of a hybrid zone"
 excerpt: "Understanding the ecological drivers and phenotypic consequences of hybridization"
 header:
   image: /assets/images/sierra_juniper_hero.jpg
