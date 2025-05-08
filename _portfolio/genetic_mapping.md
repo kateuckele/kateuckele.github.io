@@ -24,8 +24,9 @@ gallery:
 ---
 Over evolutionary time, many flowering plants have shifted their primary pollinators—for instance, transitioning from bees to hummingbirds. These transitions aren’t random; they involve coordinated changes in floral traits such as color, shape, and scent to better suit the preferences of their new pollinators. For example, when a flower shifts from bee to hummingbird pollination, it often develops tubular, brightly colored blooms, increases its nectar production, and produces a subtler scent—traits that align with hummingbirds’ visual and feeding preferences.
 
-Although many studies have examined the genetic basis of these shifts in temperate regions, tropical systems—home to far greater plant diversity—remain largely unexplored. This project focuses on the tropical genus *Costus*, an emerging evolutionary model for studying pollination transitions. I am using genetic mapping with recombinant F2 hybrids to pinpoint the specific genomic regions that drive changes in floral color, nectar production, and shape during the switch from bee to hummingbird pollination.
+Although many studies have examined the genetic basis of these shifts in temperate regions, tropical systems—home to far greater plant diversity—remain largely unexplored. This project focuses on the tropical genus *Costus*, an emerging evolutionary model for studying pollination transitions. I am conducting genetic mapping with recombinant F2 hybrids to pinpoint the specific genomic regions that drive changes in floral color, nectar production, and shape during the switch from bee to hummingbird pollination.
 
+Here is an interactive linkage map that I produced with this data:
 <iframe src="/assets/html/iplotMap.html" width="100%" height="600px" frameborder="0" style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
 
